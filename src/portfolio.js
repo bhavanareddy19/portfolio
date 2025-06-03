@@ -62,7 +62,7 @@ export const educationInfo = {
     {
       schoolName: "University of Colorado Boulder",
       logo: require("./assets/images/images.jpeg"),
-      subHeader: "M.S. – Data Science (CGPA 4/4)",
+      subHeader: "M.S. – Data Science (CGPA 3.8/4)",
       duration: "2024 – 2026",
       descBullets: [
         "Graduate coursework in machine learning, big-data systems and statistical inference"
@@ -70,7 +70,7 @@ export const educationInfo = {
     },
     {
       schoolName: "CMR College of Engineering & Technology",
-      logo: require("./assets/images/cmr.jpeg"),
+      logo: require("./assets/images/image.png"),
       subHeader: "B.Tech – Computer Science (CGPA 8.3/10)",
       duration: "2020 – 2024",
       descBullets: [
