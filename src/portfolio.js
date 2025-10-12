@@ -18,8 +18,8 @@ export const greeting = {
   subTitle: emoji(
     "I turn messy data into simple answers with machine learning and clear charts"
   ),
-  // keep your drive link or replace with a PDF link if you host it
-  resumeLink: "https://drive.google.com/uc?export=download&id=1gInoKIsPOz6W40A27_7a3KfENkFfJIM-",
+  // Use this direct download format instead
+  resumeLink: "https://github.com/bhavanareddy19/portfolio/blob/main/Bhavana_Vippala_Resume%20(1).pdf",
   displayGreeting: true
 };
 
